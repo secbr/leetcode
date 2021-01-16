@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af5d3e66-b714-4f5a-a093-c650d9b31331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/doc/LeetCode 01：两数之和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/LeetCode 02：“两数相加”，小学加法运算而已？.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +118,8 @@
       <option name="presentableId" value="Default" />
       <updated>1609647513733</updated>
       <workItem from="1609647516077" duration="312000" />
-      <workItem from="1610407842763" duration="87000" />
+      <workItem from="1610407842763" duration="176000" />
+      <workItem from="1610795098747" duration="474000" />
     </task>
     <task id="LOCAL-00001" summary="时间复杂度&amp;空间复杂度">
       <created>1609647784010</created>
@@ -150,6 +151,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="时间复杂度&amp;空间复杂度" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="545" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610802411160">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state x="545" y="311" key="#com.intellij.fileTypes.FileTypeChooser/-135.-1057.1920.1057/0.23.1680.969@0.23.1680.969" timestamp="1610802411160" />
     <state x="417" y="72" key="CommitChangelistDialog2" timestamp="1609647783882">
       <screen x="0" y="23" width="1680" height="969" />
     </state>
